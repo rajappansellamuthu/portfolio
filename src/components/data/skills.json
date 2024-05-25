@@ -1,0 +1,62 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  },
+  {
+    "title": "ApacheMaven",
+    "imageSrc": "skills/apachemaven.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Springboot",
+    "imageSrc": "skills/springboot.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Redux",
+    "imageSrc": "skills/redux.png"
+  },
+  {
+    "title": "TailwindCSS",
+    "imageSrc": "skills/tailwindcss.png"
+  },
+  {
+    "title": "FlexPLM",
+    "imageSrc": "skills/flexplm.webp"
+  },
+  {
+    "title": "DynamoDB",
+    "imageSrc": "skills/dynamodb.png"
+  }
+]

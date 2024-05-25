@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Full Stack developer",
+    "organisation": "Yaazhtech Software Solutions",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "location": "Salem, Tamilnadu",
+    "experiences": [
+      "Worked on Yaazhtech webportal",
+      "Worked with the yaazhtech Team members"
+    ],
+    "imageSrc": "company/yaazhtech.png"
+  },
+  {
+    "id": 2,
+    "role": "Software Development Engineer - Intern",
+    "organisation": "Techquest Services",
+    "startDate": "Jan, 2022",
+    "endDate": "Aug, 2022",
+    "location": "Salem, Tamilnadu",
+    "experiences": [
+      "Worked on Windows 10 terminal",
+      "Worked on Window 11 Upcoming features"
+    ],
+    "imageSrc": "company/tq-logo.png"
+  },
+  {
+    "id": 3,
+    "role": "Trainee Development Engineer ",
+    "organisation": "iNoesis Technologies Pvt Ltd",
+    "startDate": "Jun, 2021",
+    "endDate": "Dec, 2021",
+    "location": "Chennai, India",
+    "experiences": [
+      "Worked on Template Design and Implementation",
+      "Helped to create UI for development"
+    ],
+    "imageSrc": "company/inoesis.jpg"
+  }
+]
